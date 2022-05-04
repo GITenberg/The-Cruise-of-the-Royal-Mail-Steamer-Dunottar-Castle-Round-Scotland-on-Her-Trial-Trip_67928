@@ -1,0 +1,36 @@
+_repo: The-Cruise-of-the-Royal-Mail-Steamer-Dunottar-Castle-Round-Scotland-on-Her-Trial-Trip_67928
+_version: 0.0.1
+alternative_title: The cruise of the "Dunottar Castle"
+creator:
+  author:
+    agent_name: Dalgleish, Walter Scott
+    alias: Dalgleish, W. Scott (Walter Scott)
+    birthdate: 1834
+    deathdate: 1897
+    gutenberg_agent_id: '54536'
+    url: http://www.gutenberg.org/2009/agents/54536
+description: ''
+gutenberg_issued: '2022-04-26'
+identifiers:
+  gutenberg: '67928'
+  lccn: '20003546'
+language: en
+pgterms:marc904: https://archive.org/details/cruiseofroyalmai00dalg/page/n6/mode/1up?q=The+cruise+of+the+Royal+Mail+Steamer+Dunottar+Castle
+pgterms:marc905: 20211120193445dalgleish
+pgterms:marc906: '1890'
+pgterms:marc907: GB
+production_note: Fay Dunn, Fiona Holmes and the Online Distributed Proofreading Team
+  at http://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :T & A Constable,1890.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dunottar Castle (Ship)'
+- !lcc 'DA'
+- !lcsh 'Scotland -- Description and travel'
+- GITenberg
+title: The Cruise of the Royal Mail Steamer Dunottar Castle Round Scotland on Her
+  Trial Trip
+url: http://www.gutenberg.org/ebooks/67928
