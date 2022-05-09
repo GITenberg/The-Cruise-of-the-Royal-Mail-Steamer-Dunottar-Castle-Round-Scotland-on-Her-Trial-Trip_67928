@@ -1,6 +1,9 @@
 _repo: The-Cruise-of-the-Royal-Mail-Steamer-Dunottar-Castle-Round-Scotland-on-Her-Trial-Trip_67928
 _version: 0.1.0
 alternative_title: The cruise of the "Dunottar Castle"
+covers:
+- cover_type: archival
+  image_path: 67928-h/images/cover.jpg
 creator:
   author:
     agent_name: Dalgleish, Walter Scott
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '54536'
     url: http://www.gutenberg.org/2009/agents/54536
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67928#The-Cruise-of-the-Royal-Mail-Steamer-Dunottar-Castle-Round-Scotland-on-Her-Trial-Trip
 gutenberg_issued: '2022-04-26'
 identifiers:
   gutenberg: '67928'
